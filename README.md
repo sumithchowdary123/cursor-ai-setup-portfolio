@@ -1,11 +1,11 @@
-AI Development Environment Setup using Cursor IDE
+# AI Development Environment Setup using Cursor IDE
 
- Objective
+## 📌 Objective
 This project demonstrates my ability to set up a modern AI-assisted development environment using Cursor IDE along with Claude Code and Codex extensions. The goal was to understand the workflow of integrating AI tools into development and document the entire process clearly.
 
 
 
- Tools Installed
+## 🛠️ Tools Installed
 
 - Cursor IDE  
 - Claude Code Extension (AI coding assistant)  
@@ -14,7 +14,7 @@ This project demonstrates my ability to set up a modern AI-assisted development 
 
 
 
- Steps Completed
+## ⚙️ Steps Completed
 
 1. Installed Cursor IDE from the official website  
 2. Explored the interface and basic features  
