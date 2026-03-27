@@ -30,40 +30,42 @@ This project demonstrates my ability to set up a modern AI-assisted development 
 
 
 
-Challenges Faced & Solutions
+## ⚠️ Challenges Faced & Solutions
 
-1. Extension Login Issue
-- Problem: Initial difficulty while logging into Claude Code  
-- Solution: Restarted Cursor IDE and re-authenticated successfully  
+### 1. Extension Login Issue
+- **Problem:** Initial difficulty while logging into Claude Code  
+- **Solution:** Restarted Cursor IDE and re-authenticated successfully  
 
-2. Git Workflow Understanding
-- Problem: Confusion regarding staging, committing, and pushing changes  
-- Solution: Practiced basic Git commands and understood the workflow step-by-step  
+### 2. Git Workflow Understanding
+- **Problem:** Confusion regarding staging, committing, and pushing changes  
+- **Solution:** Practiced basic Git commands and understood the workflow step-by-step  
 
- 3. New Interface Adaptation
-- Problem: Cursor IDE was new compared to traditional editors  
-- Solution: Explored features and navigation through trial and documentation  
+### 3. New Interface Adaptation
+- **Problem:** Cursor IDE was new compared to traditional editors  
+- **Solution:** Explored features and navigation through trial and documentation  
 
+---
 
- Key Learnings
+## 📈 Key Learnings
 
 - AI-assisted development tools can significantly improve productivity  
 - Understanding Git and version control is essential even for non-technical roles  
 - Problem-solving during setup is a critical skill in real-world environments  
 - Documentation plays an important role in showcasing work  
 
+---
 
-
- Reflection
+## 💡 Reflection
 
 This project helped me understand how AI-assisted tools like Cursor, Claude Code, and Codex can streamline workflows. As a marketing professional, I see strong potential in leveraging such tools for automation, content creation, and rapid prototyping.
 
+---
 
-
- Repository Link
+## 🔗 Repository Link
 
 https://github.com/sumithchowdary123/cursor-ai-setup-portfolio
- 
- Status
+---
+
+## ✅ Status
 
 Project successfully completed and deployed on GitHub.
