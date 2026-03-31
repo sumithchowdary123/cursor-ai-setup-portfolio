@@ -1,7 +1,7 @@
 # Julian Goldie - AI SEO Strategy
 
 ## Video Link
-https://www.youtube.com/watch?v=REPLACE_WITH_ACTUAL_LINK
+[https://www.youtube.com/watch?v=REPLACE_WITH_ACTUAL_LINK](https://youtu.be/YB5M2a3LUqc?si=rLQuV8k3ZxVK1-3y)
 
 ## Summary
 This video explains how AI tools can be used to automate SEO content production, improve search rankings, and scale websites efficiently.
