@@ -66,4 +66,5 @@ Over-reliance on AI can lead to:
 ## Observations
 This content emphasizes a balanced approach to AI in SEO, highlighting that while AI improves efficiency, strategic thinking and human input remain critical for long-term success.
 
-Moved authority-hacker file to correct folder
+## Source
+Video content analyzed and structured for research purposes.
