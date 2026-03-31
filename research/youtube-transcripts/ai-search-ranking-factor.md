@@ -143,6 +143,5 @@ BUT:
 This content represents a shift from traditional SEO to **AI-driven visibility optimization**. It highlights that influence across trusted sources matters more than direct rankings, making brand presence and authority the key success factors.
 
 ---
-
-## Source Note
-This structured summary is based on transcript analysis and interpretation of the video content. :contentReference[oaicite:0]{index=0}
+## Source
+Video content analyzed and structured for research purposes.
